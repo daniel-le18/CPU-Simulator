@@ -1,5 +1,7 @@
+```java
 run javac *.java to compile all files
-run java CPU sample1.txt 200 for samples
+run java CPU sample1.txt 200 for each sample
+```
 
 # Purpose:
 The purpose of this project is to stimulate the process of inside of a control processing unit and memory with the fetch and execute simple instructions.
