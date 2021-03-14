@@ -1,0 +1,82 @@
+// This will print out the face
+1   // Load 40 ( // Load and print first line
+40
+9
+2
+1   // Load 95 _
+95
+9
+2
+1   // Load 41 )
+41
+9
+2
+1   // Load 32
+32
+9
+2
+1   // Load 40 (
+40
+9
+2
+1   // Load 95 _
+95
+9
+2
+1   // Load 41 (
+41
+9
+2
+23  //call line for next line subroutine
+76
+1   // Load 32
+32
+9
+2
+1   // Load 32
+32
+9
+2
+1   // Load 32
+32
+9
+2
+1   // Load 42
+42
+9
+2
+23  //call line 
+76
+1   // Load 32
+32
+9
+2
+1   // Load 42
+91
+9
+2
+23
+71
+23
+71
+23
+71
+1   // Load 42
+93
+9
+2
+1   // Load 10
+10
+9
+2
+50  // End
+1   // print _
+95
+9
+2
+24
+1   // Load 10 newline
+10
+9
+2
+24
