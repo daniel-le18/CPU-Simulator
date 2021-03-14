@@ -1,6 +1,7 @@
+# How to run
 ```java
-run javac *.java to compile all files
-run java CPU sample1.txt 200 for each sample
+javac *.java to compile all files in the directory
+java CPU samplex.txt 200 for each sample
 ```
 
 # Purpose:
